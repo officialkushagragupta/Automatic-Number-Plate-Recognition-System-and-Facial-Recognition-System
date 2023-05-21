@@ -1,6 +1,6 @@
 # Automatic-Number-Plate-Recognition-System-and-Facial-Recognition-System
 
-The proposed OCR (Optical Character Recognition) model is designed to accurately detect license plates from images and is optimized. This projext was made during Kavach Intra College Hackathon'23.
+The proposed OCR (Optical Character Recognition) model is designed to accurately detect license plates from images and is optimized. This project was made during Kavach Intra College Hackathon'23.
 
 <br>
 
